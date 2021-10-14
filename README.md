@@ -3,8 +3,8 @@
 
 
 Pasos seguidos:
-1. ![First step](Paso.JPG)
-
+1. ![First step](steps/paso1.jpg)
+2. !
 
 
 Pasos en comandos:
