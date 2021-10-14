@@ -3,7 +3,7 @@
 
 
 Pasos seguidos:
-1. ![First step](Paso.jpg)
+1. ![First step](Paso.JPG)
 
 
 
