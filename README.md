@@ -3,22 +3,22 @@
 
 
 Pasos seguidos:
-1. ![Iniciamos el proyecto en local](steps/paso1.jpg)
-2. ![Creamos algun archivo o modificación](steps/paso2.jpg)
-3. ![Añadimos los archivos modificados](steps/paso3.jpg)
-4. ![Hacemos commit en local](steps/paso4.jpg)
-5. ![Creamos repositorio remoto en GitLab dandole a "Create Project"](steps/paso5.jpg)
-6. ![Creamos repositorio en blanco"](steps/paso6.jpg)
-7. ![Creamos el repositorio poniendole un nombre y sin crear el readme](steps/paso7.jpg)
-8. ![Copiamos la url para añadir el proyecto a nuestro repositorio git local](steps/paso8.jpg)
-9. ![Añadimos el repositorio remoto](steps/paso9.jpg)
-10. ![Hacemos un git push (si es primera vez hacemos push en esa cuenta, nos pedira credenciales)](steps/paso10.jpg)
-11. ![Generamos un personall access token](steps/paso11.jpg)
-12. ![Metemos las credenciales con el personal access token como passwor2](steps/paso12.jpg)
-13. ![Hacemos pull por si hay cambios traernoslos](steps/paso13.jpg)
-14. ![Hacemos un cambio y hacemos commit](steps/paso14.jpg)
-15. ![Revertimos los cambios a otro commit cogiendo su hash identificador con el comando git log --oneline](steps/paso15.jpg)
-16. ![Hacemos git status](steps/paso16.jpg)
+1. ![](steps/paso1.jpg) Iniciamos el proyecto en local
+2. ![](steps/paso2.jpg) Creamos algun archivo o modificación
+3. ![](steps/paso3.jpg) Añadimos los archivos modificados
+4. ![](steps/paso4.jpg) Hacemos commit en local
+5. ![](steps/paso5.jpg) Creamos repositorio remoto en GitLab dandole a "Create Project"
+6. ![](steps/paso6.jpg) Creamos repositorio en blanco"
+7. ![](steps/paso7.jpg) Creamos el repositorio poniendole un nombre y sin crear el readme
+8. ![](steps/paso8.jpg) Copiamos la url para añadir el proyecto a nuestro repositorio git local
+9. ![](steps/paso9.jpg) Añadimos el repositorio remoto
+10. ![](steps/paso10.jpg) Hacemos un git push (si es primera vez hacemos push en esa cuenta, nos pedira credenciales)
+11. ![](steps/paso11.jpg) Generamos un personall access token
+12. ![](steps/paso12.jpg) Metemos las credenciales con el personal access token como password
+13. ![](steps/paso13.jpg) Hacemos pull por si hay cambios traernoslos
+14. ![](steps/paso14.jpg) Hacemos un cambio y hacemos commit
+15. ![](steps/paso15.jpg) Revertimos los cambios a otro commit cogiendo su hash identificador con el comando git log --oneline
+16. ![](steps/paso16.jpg) Hacemos git status
 
 Pasos en comandos:
 git init
