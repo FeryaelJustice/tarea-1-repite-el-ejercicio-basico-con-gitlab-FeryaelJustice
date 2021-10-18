@@ -2,6 +2,7 @@
 # tarea1-peps
 
 Pasos seguidos:
+
 1. ![](steps/paso1.jpg) 
 
 Iniciamos el proyecto en local
