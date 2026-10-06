@@ -9,7 +9,7 @@ Iniciamos el proyecto en local
 
 2. ![](steps/paso2.jpg) 
 
-Creamos algun archivo o modificación
+Creamos algún archivo o hacemos alguna modificación.
 
 3. ![](steps/paso3.jpg) 
 
@@ -21,19 +21,19 @@ Hacemos commit en local
 
 5. ![](steps/paso5.jpg) 
 
-Creamos repositorio remoto en GitLab dandole a "Create Project"
+Creamos un repositorio remoto en GitLab haciendo clic en "Create Project".
 
 6. ![](steps/paso6.jpg) 
 
-Creamos repositorio en blanco"
+Creamos un repositorio en blanco
 
 7. ![](steps/paso7.jpg) 
 
-Creamos el repositorio poniendole un nombre y sin crear el readme
+Creamos el repositorio, le asignamos un nombre y no creamos el README.
 
 8. ![](steps/paso8.jpg) 
 
-Copiamos la url para añadir el proyecto a nuestro repositorio git local
+Copiamos la URL para añadir el proyecto a nuestro repositorio Git local.
 
 9. ![](steps/paso9.jpg) 
 
@@ -41,19 +41,19 @@ Añadimos el repositorio remoto
 
 10. ![](steps/paso10.jpg) 
 
-Hacemos un git push (si es primera vez hacemos push en esa cuenta, nos pedira credenciales)
+Hacemos un git push (si es la primera vez que hacemos push en esa cuenta, nos pedirá las credenciales)
 
 11. ![](steps/paso11.jpg) 
 
-Generamos un personall access token
+Generamos un personal access token
 
 12. ![](steps/paso12.jpg) 
 
-Metemos las credenciales con el personal access token como password
+Introducimos las credenciales y usamos el personal access token como contraseña
 
 13. ![](steps/paso13.jpg) 
 
-Hacemos pull por si hay cambios traernoslos
+Hacemos pull para incorporar los cambios que haya
 
 14. ![](steps/paso14.jpg) 
 
@@ -61,7 +61,7 @@ Hacemos un cambio y hacemos commit
 
 15. ![](steps/paso15.jpg) 
 
-Revertimos los cambios a otro commit cogiendo su hash identificador con el comando git log --oneline
+Revertimos los cambios hasta otro commit usando su hash identificador, que obtenemos con el comando git log --oneline
 
 16. ![](steps/paso16.jpg) 
 
